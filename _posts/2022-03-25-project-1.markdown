@@ -7,5 +7,5 @@ alt: image-alt
 project-date: March 2022
 client: Java, HTML, CSS, MYSQL
 category: Spring Project
-description: <p style="text-align:left;">* 구현 기능</p><p style="text-align:left;">&nbsp;&nbsp;-&nbsp;회원가입/로그인(인터셉터 적용)</br>&nbsp;&nbsp;-&nbsp;판매업체 등록/수정/삭제</br>&nbsp;&nbsp;-&nbsp;상품 등록/수정/삭제</br>&nbsp;&nbsp;-&nbsp;상품 이미지 정보 등록</br>&nbsp;&nbsp;-&nbsp;검색</br>&nbsp;&nbsp;-&nbsp;장바구니</br>&nbsp;&nbsp;-&nbsp;주문 현황/취소</br>&nbsp;&nbsp;-&nbsp;댓글 등록/수정/삭제</br>&nbsp;&nbsp;-&nbsp;AWS 배포</p>
+description: <p style="text-align:left;"># 구현 기능</p><p style="text-align:left;">&nbsp;&nbsp;-&nbsp;회원가입/로그인(인터셉터 적용)</br>&nbsp;&nbsp;-&nbsp;판매업체 등록/수정/삭제</br>&nbsp;&nbsp;-&nbsp;상품 등록/수정/삭제</br>&nbsp;&nbsp;-&nbsp;상품 이미지 정보 등록</br>&nbsp;&nbsp;-&nbsp;검색</br>&nbsp;&nbsp;-&nbsp;장바구니</br>&nbsp;&nbsp;-&nbsp;주문 현황/취소</br>&nbsp;&nbsp;-&nbsp;댓글 등록/수정/삭제</br>&nbsp;&nbsp;-&nbsp;AWS 배포</p>
 ---

@@ -7,5 +7,5 @@ alt: image-alt
 project-date: Oct 2021
 client: Java, Kotlin
 category: Android Project
-description: <p style="text-align:left;">* 구현 기능</p><p style="text-align:left;">&nbsp;&nbsp;-&nbsp;로봇 페어링 기능 개선(서버응답시간, FailCase 처리)</br>&nbsp;&nbsp;-&nbsp;Cloud Server Connection 개선(Spec 일치)</br>&nbsp;&nbsp;-&nbsp;Robot Connection Flow 변경</br>&nbsp;&nbsp;-&nbsp;로봇 status 정보 Animation 적용</br>&nbsp;&nbsp;-&nbsp;Favorite/Block Area 연동</br>&nbsp;&nbsp;-&nbsp;Push Notification</br>&nbsp;&nbsp;-&nbsp;페어링 Flow 변경</br>&nbsp;&nbsp;-&nbsp;Play Store 배포</br></p>
+description: <p style="text-align:left;"># 구현 기능</p><p style="text-align:left;">&nbsp;&nbsp;-&nbsp;로봇 페어링 기능 개선(서버응답시간, FailCase 처리)</br>&nbsp;&nbsp;-&nbsp;Cloud Server Connection 개선(Spec 일치)</br>&nbsp;&nbsp;-&nbsp;Robot Connection Flow 변경</br>&nbsp;&nbsp;-&nbsp;로봇 Status 정보 Animation 적용</br>&nbsp;&nbsp;-&nbsp;Favorite/Block Area 연동</br>&nbsp;&nbsp;-&nbsp;Push Notification</br>&nbsp;&nbsp;-&nbsp;페어링 Flow 변경</br>&nbsp;&nbsp;-&nbsp;Play Store 배포</br></p>
 ---

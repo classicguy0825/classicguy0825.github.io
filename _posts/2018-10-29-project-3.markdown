@@ -7,5 +7,5 @@ alt: image-alt
 project-date: Oct 2018
 client: Java
 category: Java Project
-description: <p style="text-align:left;"># 구현 기능</p><p style="text-align:left;">&nbsp;&nbsp;-&nbsp;로봇고장진단 App 선행개발</br>&nbsp;&nbsp;-&nbsp;CustomView 사용.(SimpleExoPlayerView, Draggablepanel, SlidingUpPanel)</br>&nbsp;&nbsp;-&nbsp;FireBase Auth 처리</br>&nbsp;&nbsp;-&nbsp;협동로봇 Application 개발</br>&nbsp;&nbsp;-&nbsp;로봇 팬턴트 제어기 UI 개발</br>&nbsp;&nbsp;-&nbsp;Vision 모듈 연동 및 업데이트</p>
+description: <p style="text-align:left;"># 주요 기능</p><p style="text-align:left;">&nbsp;&nbsp;-&nbsp;로봇고장진단 App 선행개발</br>&nbsp;&nbsp;-&nbsp;CustomView 사용.(SimpleExoPlayerView, Draggablepanel, SlidingUpPanel)</br>&nbsp;&nbsp;-&nbsp;FireBase Auth 처리</br>&nbsp;&nbsp;-&nbsp;협동로봇 Application 개발</br>&nbsp;&nbsp;-&nbsp;로봇 팬턴트 제어기 UI 개발</br>&nbsp;&nbsp;-&nbsp;Vision 모듈 연동 및 업데이트</p>
 ---

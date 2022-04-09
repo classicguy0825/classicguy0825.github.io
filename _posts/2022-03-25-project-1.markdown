@@ -1,6 +1,7 @@
 ---
 layout: default
 modal-id: 1
+title: 커튼 판매 쇼핑몰
 date: 2022-03-25
 img: project1.png
 alt: image-alt

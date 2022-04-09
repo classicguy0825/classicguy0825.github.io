@@ -1,6 +1,7 @@
 ---
 layout: default
 modal-id: 2
+title: 청소로봇 제어 앱
 date: 2021-10-31
 img: project2.png
 alt: image-alt

@@ -1,11 +1,12 @@
 ---
 layout: default
 modal-id: 3
+title: 협동로봇 어플리케이션
 date: 2018-10-29
 img: project3.png
 alt: image-alt
-project-date: Oct 2018
-client: Java
-category: Java Project
-description: <p style="text-align:left;"># 주요 기능</p><p style="text-align:left;">&nbsp;&nbsp;-&nbsp;로봇고장진단 App 선행개발</br>&nbsp;&nbsp;-&nbsp;CustomView 사용.(SimpleExoPlayerView, Draggablepanel, SlidingUpPanel)</br>&nbsp;&nbsp;-&nbsp;FireBase Auth 처리</br>&nbsp;&nbsp;-&nbsp;협동로봇 Application 개발</br>&nbsp;&nbsp;-&nbsp;로봇 팬턴트 제어기 UI 개발</br>&nbsp;&nbsp;-&nbsp;Vision 모듈 연동 및 업데이트</p>
+project-date: 2017.01 ~ 2018.10
+client:
+category: JavaFX Project
+description: <p style="text-align:left; font-weight:bold;"># 프로젝트 이름</p><p style="text-align:left;">두산 협동로봇 제어 어플리케이션</br><p style="text-align:left; font-weight:bold;"># 프로젝트 요약</p><p style="text-align:left;">협동 로봇 제어를 위한 어플리케이션 입니다. 화면은 JavaFX로 구현되었으며, hibernate로 로봇제어 정보를 CRUD 하였습니다. DB는 SQLite를 사용하였습니다. 로봇과의 통신은 Socket를 이용하였습니다.</br>부가기능으로 Vision 묘듈 연동을 위한 Update를 진행하였습니다. 또한 협동로봇이 에러발생를 발생시켰을때, 해결방법에 대한 정보를 제공하는 어플리케이션 제작을 맡았습니다. 이때 Fibase를 이용하여, 에러정보를 호출하였습니다.<p style="text-align:left; font-weight:bold;"># 주요 기능</p><p style="text-align:left;">&nbsp;&nbsp;-&nbsp;협동로봇 Application 개발</br>&nbsp;&nbsp;-&nbsp;로봇 팬턴트 제어기 UI 개발</br>&nbsp;&nbsp;-&nbsp;Vision 모듈 연동 및 업데이트</br>&nbsp;&nbsp;-&nbsp;로봇고장진단 App 선행개발</br>&nbsp;&nbsp;-&nbsp;FireBase Auth 처리</br></p><p style="text-align:left; font-weight:bold;"># 기술 스택</p><p style="text-align:left;">Java&nbsp/&nbspHTML&nbsp/&nbspCSS&nbsp/&nbspSQLite&nbsp/&nbspAndroid</br>
 ---

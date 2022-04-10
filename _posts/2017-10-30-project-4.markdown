@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 4
+title: 영어학습 앱
+date: 2017-10-30
+img: project4.png
+alt: image-alt
+project-date: 2017.01 ~ 2017.10
+client: 
+category: Android Project
+description: <p style="text-align:left; font-weight:bold;"># 프로젝트 이름</p><p style="text-align:left;">영어 학습 앱</br><p style="text-align:left; font-weight:bold;"># 프로젝트 요약</p><p style="text-align:left;">영어 학습을 위한 안드로이드 앱입니다.<p style="text-align:left; font-weight:bold;"># 주요 기능</p><p style="text-align:left;">&nbsp;&nbsp;-&nbsp;기본 Layout 구성</br>&nbsp;&nbsp;-&nbsp;검색기능</br>&nbsp;&nbsp;-&nbsp;Vision 모듈 연동 및 업데이트</br>&nbsp;&nbsp;-&nbsp;로봇고장진단 App 선행개발</br>&nbsp;&nbsp;-&nbsp;CustomView 사용(SimpleExoPlayerView, Draggablepanel, SlidingUpPanel)</br>&nbsp;&nbsp;-&nbsp;FireBase Auth 처리</br></p><p style="text-align:left; font-weight:bold;"># 기술 스택</p><p style="text-align:left;">Java&nbsp/&nbspHTML&nbsp/&nbspCSS&nbsp/&nbspSQLite&nbsp/&nbspAndroid</br>
+---

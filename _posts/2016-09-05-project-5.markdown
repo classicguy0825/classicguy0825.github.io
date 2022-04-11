@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 5
+title: LG전자 앱
+date: 2016-09-05
+img: project5.png
+alt: image-alt
+project-date: 2011.01 ~ 2016.09
+client: 
+category: Android Project
+description: <p style="text-align:left; font-weight:bold;"># 프로젝트 이름</p><p style="text-align:left;">LG전자 앱</br><p style="text-align:left; font-weight:bold;"># 프로젝트 요약</p><p style="text-align:left;">LG전자 폰에 탑재되는 기본 안드로이드 앱들을 구현 및 유지 보수하였습니다.</br>LG 런처 메뉴에서 다운로드 되어 있는 앱들을 정렬/숨기기/삭제(에니메이션)을 구현하는 업무를 맡았습니다. LG 런처의 테마 업무도 맡았습니다. 테마를 변경하면 앱/위젯이 Default 아이콘에서, 새로운 테마에 맡게 아이콘 및 이미지가 변경 됩니다.</br>HomeSelect은 LG 런처 이외의 런처들이 설치 되면 유저가 선택하여, 변경 할 수 있게 만드는 앱입니다. 또한 LGSetting의 자동밝기 조정 기능 구현 및 이슈 처리 업무를 맡았었습니다.</br>마지막으로 JIRA에 등록 되어 있는 이슈들을 parsing 하여 유저가 Custom한 페이지로 재구성하여 보여주는 스크립트를 구현 하였습니다.<p style="text-align:left; font-weight:bold;"># 주요 기능</p><p style="text-align:left;">&nbsp;&nbsp;-&nbsp;LGHome Menu 개발</br>&nbsp;&nbsp;&nbsp;&nbsp;Menu의 Sort/Animation/Hiding 기능 구현</br>&nbsp;&nbsp;&nbsp;&nbsp;Drag&Drop Debugging</br>&nbsp;&nbsp;&nbsp;&nbsp;삭제 애니메이션 구현 및 Menu Layout 재정렬</br>&nbsp;&nbsp;-&nbsp;LG Theme 개발</br>&nbsp;&nbsp;&nbsp;&nbsp;Theme Selector 및 테마 변경 기능</br>&nbsp;&nbsp;-&nbsp;HomeSelector App 개발</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HomeSelector에서 설치된 Home관련 속성 Application분류로 런처 변경</br>&nbsp;&nbsp;-&nbsp;LGSetting의 자동밝기조정 기능 개발</br>&nbsp;&nbsp;&nbsp;&nbsp;디바이스의 밝기 scope을 가져와 선택 된 밝기 수준에 따라 값 계산 후 설정</br>&nbsp;&nbsp;-&nbsp;ORD Manager System 구축</br>&nbsp;&nbsp;&nbsp;&nbsp;JIRA에 등록되어 있는 ORD 정보를 받어와 분류 및 정렬</br>&nbsp;&nbsp;&nbsp;&nbsp;pasing 한 데이터로 새로 구성한 WebPage에 Viewing</br>&nbsp;&nbsp;&nbsp;&nbsp;Page 정보 누락률 0% (Filter 설정), Sorting 기능으로 업무 효율화</br></p><p style="text-align:left; font-weight:bold;"># 기술 스택</p><p style="text-align:left;">Java&nbsp/&nbspXML&nbsp/&nbspAndroid&nbsp/&nbspJavaScript</br>
+---

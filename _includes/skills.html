@@ -10,18 +10,24 @@
 	         alt=""
 	         loading="lazy"
 	         class="icon icon-card"
+	         onmouseenter="zoomIn(event)"
+      		 onmouseleave="zoomOut(event)"
 	       />
 	       <img
 	         src="img/skills/icons8-kotlin.svg"
 	         alt=""
 	         loading="lazy"
 	         class="icon icon-card"
+	         onmouseenter="zoomIn(event)"
+      		 onmouseleave="zoomOut(event)"
 	       />
 	       <img
 	         src="img/skills/icons8-git.svg"
 	         alt=""
 	         loading="lazy"
 	         class="icon icon-card"
+	         onmouseenter="zoomIn(event)"
+      		 onmouseleave="zoomOut(event)"
 	       />
 	     </div>
 	     <div class="second-set animate__animated animate__pulse">
@@ -31,20 +37,39 @@
 	         alt=""
 	         loading="lazy"
 	         class="icon icon-card"
+	         onmouseenter="zoomIn(event)"
+      		 onmouseleave="zoomOut(event)"
 	       />
 	       <img
 	         src="img/skills/icons8-css3.svg"
 	         alt=""
 	         loading="lazy"
 	         class="icon icon-card"
+	         onmouseenter="zoomIn(event)"
+      		 onmouseleave="zoomOut(event)"
 	       />
 	       <img
 	         src="img/skills/icons8-javascript.svg"
 	         alt=""
 	         loading="lazy"
 	         class="icon icon-card"
+	         onmouseenter="zoomIn(event)"
+      		 onmouseleave="zoomOut(event)"
 	       />
 	     </div>
 	   </div>
 	 </section>
+	 <script>
+    function zoomIn(event) {
+      event.target.style.width = "170px";
+      event.target.style.height = "170px";
+      event.target.style.transition = "all 0.5s";
+    }
+
+    function zoomOut(event) {
+      event.target.style.width = "115px";
+      event.target.style.height = "115px";
+      event.target.style.transition = "all 0.5s";
+    }
+  </script>
  </div>
